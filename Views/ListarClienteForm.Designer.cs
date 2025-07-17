@@ -34,7 +34,7 @@
             this.btAtualizar = new System.Windows.Forms.Button();
             this.btDeletar = new System.Windows.Forms.Button();
             this.dgvListaClientes = new System.Windows.Forms.DataGridView();
-            this.label17 = new System.Windows.Forms.Label();
+            this.lblExplicacaoDeletar = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.dgvListaClientes)).BeginInit();
             this.SuspendLayout();
             // 
@@ -103,15 +103,15 @@
             this.dgvListaClientes.Size = new System.Drawing.Size(602, 295);
             this.dgvListaClientes.TabIndex = 1;
             // 
-            // label17
+            // lblExplicacaoDeletar
             // 
-            this.label17.AutoSize = true;
-            this.label17.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label17.Location = new System.Drawing.Point(313, 20);
-            this.label17.Name = "label17";
-            this.label17.Size = new System.Drawing.Size(330, 64);
-            this.label17.TabIndex = 35;
-            this.label17.Text = "Ao testar o deletar favor teste com o cliente criado\r\npelo senhor para não dar er" +
+            this.lblExplicacaoDeletar.AutoSize = true;
+            this.lblExplicacaoDeletar.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblExplicacaoDeletar.Location = new System.Drawing.Point(313, 20);
+            this.lblExplicacaoDeletar.Name = "lblExplicacaoDeletar";
+            this.lblExplicacaoDeletar.Size = new System.Drawing.Size(330, 64);
+            this.lblExplicacaoDeletar.TabIndex = 35;
+            this.lblExplicacaoDeletar.Text = "Ao testar o deletar favor teste com o cliente criado\r\npelo senhor para não dar er" +
     "ro de relacionamento\r\ncom agendamento devido aos inserts realizados para\r\na disc" +
     "iplina de BD2";
             // 
@@ -120,7 +120,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.label17);
+            this.Controls.Add(this.lblExplicacaoDeletar);
             this.Controls.Add(this.btDeletar);
             this.Controls.Add(this.btAtualizar);
             this.Controls.Add(this.lblTotalClientes);
@@ -143,6 +143,6 @@
         private System.Windows.Forms.Button btAtualizar;
         private System.Windows.Forms.Button btDeletar;
         private System.Windows.Forms.DataGridView dgvListaClientes;
-        private System.Windows.Forms.Label label17;
+        private System.Windows.Forms.Label lblExplicacaoDeletar;
     }
 }
