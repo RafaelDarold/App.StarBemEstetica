@@ -1,28 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\rafae\\OneDrive\\\u00C1rea de Trabalho\\FACULDADE\\3\u00B0Periodo\\POO\\projetoStarBemEstetica\\App.StarBemEstetica\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{7264722F-3D3C-4C30-95D0-36A68CE814D7}|App.StarBemEstetica.csproj|c:\\users\\rafae\\onedrive\\\u00E1rea de trabalho\\faculdade\\3\u00B0periodo\\poo\\projetostarbemestetica\\app.starbemestetica\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{7264722F-3D3C-4C30-95D0-36A68CE814D7}|App.StarBemEstetica.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7264722F-3D3C-4C30-95D0-36A68CE814D7}|App.StarBemEstetica.csproj|C:\\Users\\rafae\\OneDrive\\\u00C1rea de Trabalho\\FACULDADE\\3\u00B0Periodo\\POO\\projetoStarBemEstetica\\App.StarBemEstetica\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7264722F-3D3C-4C30-95D0-36A68CE814D7}|App.StarBemEstetica.csproj|solutionrelative:Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7264722F-3D3C-4C30-95D0-36A68CE814D7}|App.StarBemEstetica.csproj|C:\\Users\\rafae\\OneDrive\\\u00C1rea de Trabalho\\FACULDADE\\3\u00B0Periodo\\POO\\projetoStarBemEstetica\\App.StarBemEstetica\\Utilitarios\\Conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7264722F-3D3C-4C30-95D0-36A68CE814D7}|App.StarBemEstetica.csproj|solutionrelative:Utilitarios\\Conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7264722F-3D3C-4C30-95D0-36A68CE814D7}|App.StarBemEstetica.csproj|C:\\Users\\rafae\\OneDrive\\\u00C1rea de Trabalho\\FACULDADE\\3\u00B0Periodo\\POO\\projetoStarBemEstetica\\App.StarBemEstetica\\DAO\\UsuarioDAO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7264722F-3D3C-4C30-95D0-36A68CE814D7}|App.StarBemEstetica.csproj|solutionrelative:DAO\\UsuarioDAO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7264722F-3D3C-4C30-95D0-36A68CE814D7}|App.StarBemEstetica.csproj|C:\\Users\\rafae\\OneDrive\\\u00C1rea de Trabalho\\FACULDADE\\3\u00B0Periodo\\POO\\projetoStarBemEstetica\\App.StarBemEstetica\\Mapeamento\\Usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7264722F-3D3C-4C30-95D0-36A68CE814D7}|App.StarBemEstetica.csproj|solutionrelative:Mapeamento\\Usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -30,72 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\rafae\\OneDrive\\\u00C1rea de Trabalho\\FACULDADE\\3\u00B0Periodo\\POO\\projetoStarBemEstetica\\App.StarBemEstetica\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\rafae\\OneDrive\\\u00C1rea de Trabalho\\FACULDADE\\3\u00B0Periodo\\POO\\projetoStarBemEstetica\\App.StarBemEstetica\\Form1.cs [Design]",
-              "RelativeToolTip": "Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T21:52:32.641Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\rafae\\OneDrive\\\u00C1rea de Trabalho\\FACULDADE\\3\u00B0Periodo\\POO\\projetoStarBemEstetica\\App.StarBemEstetica\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\rafae\\OneDrive\\\u00C1rea de Trabalho\\FACULDADE\\3\u00B0Periodo\\POO\\projetoStarBemEstetica\\App.StarBemEstetica\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAA1wCkAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T20:58:13.232Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Conexao.cs",
-              "DocumentMoniker": "C:\\Users\\rafae\\OneDrive\\\u00C1rea de Trabalho\\FACULDADE\\3\u00B0Periodo\\POO\\projetoStarBemEstetica\\App.StarBemEstetica\\Utilitarios\\Conexao.cs",
-              "RelativeDocumentMoniker": "Utilitarios\\Conexao.cs",
-              "ToolTip": "C:\\Users\\rafae\\OneDrive\\\u00C1rea de Trabalho\\FACULDADE\\3\u00B0Periodo\\POO\\projetoStarBemEstetica\\App.StarBemEstetica\\Utilitarios\\Conexao.cs",
-              "RelativeToolTip": "Utilitarios\\Conexao.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T19:19:19.615Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UsuarioDAO.cs",
-              "DocumentMoniker": "C:\\Users\\rafae\\OneDrive\\\u00C1rea de Trabalho\\FACULDADE\\3\u00B0Periodo\\POO\\projetoStarBemEstetica\\App.StarBemEstetica\\DAO\\UsuarioDAO.cs",
-              "RelativeDocumentMoniker": "DAO\\UsuarioDAO.cs",
-              "ToolTip": "C:\\Users\\rafae\\OneDrive\\\u00C1rea de Trabalho\\FACULDADE\\3\u00B0Periodo\\POO\\projetoStarBemEstetica\\App.StarBemEstetica\\DAO\\UsuarioDAO.cs",
-              "RelativeToolTip": "DAO\\UsuarioDAO.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T18:39:02.421Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\rafae\\OneDrive\\\u00C1rea de Trabalho\\FACULDADE\\3\u00B0Periodo\\POO\\projetoStarBemEstetica\\App.StarBemEstetica\\Mapeamento\\Usuario.cs",
-              "RelativeDocumentMoniker": "Mapeamento\\Usuario.cs",
-              "ToolTip": "C:\\Users\\rafae\\OneDrive\\\u00C1rea de Trabalho\\FACULDADE\\3\u00B0Periodo\\POO\\projetoStarBemEstetica\\App.StarBemEstetica\\Mapeamento\\Usuario.cs",
-              "RelativeToolTip": "Mapeamento\\Usuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T18:32:03.726Z"
             }
           ]
         }

@@ -29,7 +29,7 @@ namespace App.StarBemEstetica
             if (Usuario.Login(email, senha))
             {
                 this.Hide();
-                AgendamentoForm form = new AgendamentoForm();
+                ListarClienteForm form = new ListarClienteForm();
                 form.ShowDialog();
                 this.Close();
             }
@@ -40,6 +40,13 @@ namespace App.StarBemEstetica
                 txtSenha.Clear();
                 txtEmail.Focus();
             }
+        }
+
+        private void btLimpar_Click(object sender, EventArgs e)
+        {
+            txtEmail.Clear();
+            txtSenha.Clear();
+            txtEmail.Focus();
         }
     }
 }

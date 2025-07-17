@@ -41,4 +41,6 @@ C:\Users\rafae\OneDrive\Área de Trabalho\FACULDADE\3°Periodo\POO\projetoStarBe
 C:\Users\rafae\OneDrive\Área de Trabalho\FACULDADE\3°Periodo\POO\projetoStarBemEstetica\App.StarBemEstetica\obj\Debug\App.Star.868B07C4.Up2Date
 C:\Users\rafae\OneDrive\Área de Trabalho\FACULDADE\3°Periodo\POO\projetoStarBemEstetica\App.StarBemEstetica\obj\Debug\App.StarBemEstetica.exe
 C:\Users\rafae\OneDrive\Área de Trabalho\FACULDADE\3°Periodo\POO\projetoStarBemEstetica\App.StarBemEstetica\obj\Debug\App.StarBemEstetica.pdb
-C:\Users\rafae\OneDrive\Área de Trabalho\FACULDADE\3°Periodo\POO\projetoStarBemEstetica\App.StarBemEstetica\obj\Debug\App.StarBemEstetica.Views.AgendamentoForm.resources
+C:\Users\rafae\OneDrive\Área de Trabalho\FACULDADE\3°Periodo\POO\projetoStarBemEstetica\App.StarBemEstetica\obj\Debug\App.StarBemEstetica.Views.CadastroClienteForm.resources
+C:\Users\rafae\OneDrive\Área de Trabalho\FACULDADE\3°Periodo\POO\projetoStarBemEstetica\App.StarBemEstetica\obj\Debug\App.StarBemEstetica.Views.ListarClienteForm.resources
+C:\Users\rafae\OneDrive\Área de Trabalho\FACULDADE\3°Periodo\POO\projetoStarBemEstetica\App.StarBemEstetica\obj\Debug\App.StarBemEstetica.Views.AtualizarClienteForm.resources

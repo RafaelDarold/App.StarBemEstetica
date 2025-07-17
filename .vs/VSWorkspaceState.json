@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\BancoDados",
+    "\\Views"
   ],
-  "SelectedNode": "\\App.StarBemEstetica.sln",
+  "SelectedNode": "\\Views",
   "PreviewInSolutionExplorer": false
 }

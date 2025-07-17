@@ -144,6 +144,7 @@
             this.btLimpar.TabIndex = 8;
             this.btLimpar.Text = "LIMPAR";
             this.btLimpar.UseVisualStyleBackColor = false;
+            this.btLimpar.Click += new System.EventHandler(this.btLimpar_Click);
             // 
             // label6
             // 
@@ -171,7 +172,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Login";
             this.ResumeLayout(false);
             this.PerformLayout();
 

@@ -13,11 +13,6 @@ namespace App.StarBemEstetica.Utilitarios
     internal class Conexao
     {
         private static MySqlConnection conexao;
-
-        private static Conexao _conn = new Conexao();
-
-        private static MySqlCommand command;
-
         public static MySqlConnection Conectar()
         {
             try
